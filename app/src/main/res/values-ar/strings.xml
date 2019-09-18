@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حكواتي</string>
+    <string name="commercialrec">السجل التجاري</string>
+    <string name="agree_to_the_policy">الموافقة على الانظمة</string>
+    <string name="Subscription">نوع الاشتراك</string>
+    <string name="morethan">اكثر من 500</string>
+    <string name="totalPrice">إجمالي السعر</string>
+    <string name="Rs">.رس</string>
+    <string name="createAccount">أنشئ حسابك</string>
+    <string name="description">تفاصيل</string>
+    <string name="summery">ملخص</string>
+    <string name="enteryourEmail">enteryourEmail</string>
+    <string name="YES">Yes</string>
+    <string name="cancel">cancel</string>
+</resources>

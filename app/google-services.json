@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37867183350",
+    "firebase_url": "https://hakuati.firebaseio.com",
+    "project_id": "hakuati",
+    "storage_bucket": "hakuati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37867183350:android:72da4625b5e0b80f",
+        "android_client_info": {
+          "package_name": "sa.elm.hakuati.toolbar_mainactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37867183350-muii5edu3h31mtm7bq11q0tec8b4ir0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a.elm.hakuati.toolbar_mainactivity",
+            "certificate_hash": "086372b1ddb33df78ea58e9304300ba8858b8a2f"
+          }
+        },
+        {
+          "client_id": "37867183350-ke772barcqke4mgkk5hklkrfsd9a81h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkOOzdBLNij-dt4GkA0qRFZ7_7NgradE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37867183350-ke772barcqke4mgkk5hklkrfsd9a81h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

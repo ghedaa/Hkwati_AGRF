@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikhaellopez:circularimageview:3.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9158380a7ec3fa8f1ff8a696fe03c16a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9158380a7ec3fa8f1ff8a696fe03c16a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikhaellopez/circularimageview/3.2.0/47c9e72728cf43973b081f19469f1577964cde79/circularimageview-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

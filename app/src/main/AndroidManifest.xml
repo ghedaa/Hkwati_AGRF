@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sa.elm.hakuati.toolbar_mainactivity">
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:name=".mainActivity.CustomFontApp"
+        >
+        <activity
+            android:name=".mainActivity.SplashActivity"
+            android:label="@string/app_name">
+
+
+        </activity>
+        <activity
+            android:name=".mainActivity.MainActivity"
+            android:label="@string/app_name">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".audioRecord.RecordingActivity"
+            android:label="@string/app_name">
+
+
+        </activity>
+
+        <activity
+            android:name=".profileActivity.ProfileActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name=".discoverActivity.exploreActivity"
+            android:label="@string/app_name">
+
+
+
+        </activity>
+        <activity
+            android:name=".pesonalProfile.PersonalProfileActivity"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name=".storyActivity.LoginActivity">
+
+
+
+
+
+        </activity>
+
+        <activity
+            android:name=".storyActivity.StoryActivity"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name=".innerStroeyActivity.InnerStoryActivity">  </activity>
+        <activity android:name=".storyActivity.SignUpActivity">
+        </activity>
+        <activity android:name=".innerStroeyActivity.Record"> </activity>
+        <activity android:name=".innerStroeyActivity.Audio_Record"> </activity>
+        <activity android:name=".innerStroeyActivity.Test"> </activity>
+        <service android:name=".innerStroeyActivity.MyService"></service>
+
+
+    </application>
+
+</manifest>

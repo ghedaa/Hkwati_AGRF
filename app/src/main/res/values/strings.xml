@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hakawati</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="commercialrec">commercialRec</string>
+    <string name="agree_to_the_policy">agree to the policy</string>
+    <string name="Subscription">Subscription</string>
+    <string name="morethan">more than 500</string>
+    <string name="totalPrice">Total Price</string>
+    <string name="Rs">.Rs</string>
+    <string name="createAccount">Create Account</string>
+    <string name="description">description</string>
+    <string name="summery">summery</string>
+    <string name="forgetPassword">forgetPassword</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="radio_male">radio_male</string>
+    <string name="radio_female">radio_female</string>
+    <string name="enteryourEmail">enteryourEmail</string>
+    <string name="YES">Yes</string>
+    <string name="cancel">cancel</string>
+    <string name="Camera">camera</string>
+    <string name="Gallery">gallery</string>
+</resources>
